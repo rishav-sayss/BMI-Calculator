@@ -16,7 +16,7 @@ function calculatebmi(){
    {
       modelcontent.style.opacity = "1"
       modelcontent.style.pointerEvents = "auto"; 
-      modeltext.textContent = "Plese fill all the details"     
+      modeltext.textContent = "Please fill All the details"     
    }
    else{
        countbmi()
